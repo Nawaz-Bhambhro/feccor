@@ -18,3 +18,26 @@ export const Button = styled.button`
     opacity: 0.8;
   }
 `;
+
+
+export const Figure = styled.figure`
+    margin: 0;
+`;
+
+export const Image = styled.img`
+    
+`;
+
+export const Paper = styled.span`
+    
+`;
+
+export const List = styled.ul`
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+`;
+
+export const ListItem = styled.li`
+    padding: 0px;
+`;
